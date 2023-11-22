@@ -3,7 +3,8 @@
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-.https://justandyj.github.io/Interactive-rating-component/
+<h1>link</h1>
+.https://justandyj.github.io/Interactive-rating-component/ <br>
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
